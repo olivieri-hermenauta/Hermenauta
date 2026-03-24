@@ -6,3 +6,4 @@ Hermen@uta é um espaço de reflexão sobre tecnologia, inteligência artificial
 
 Em breve, o manifesto.
 [Leia o Manifesto](manifesto.md)
+.
