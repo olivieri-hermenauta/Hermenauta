@@ -1,13 +1,37 @@
 # Manifesto Hermen@uta
 
-Este é um espaço para pensar a tecnologia a partir da tradição humanística.
+Vivemos um tempo em que a tecnologia deixou de ser instrumento para se tornar ambiente.
 
-Contra o ruído, a favor do sentido.
+Não usamos mais ferramentas: habitamos sistemas.
 
-Contra o deslumbramento, a favor da lucidez.
+A inteligência artificial, em particular, não é apenas uma inovação técnica. Ela altera a própria condição da linguagem, da autoria e do pensamento.
 
-Contra a passividade, a favor da autoria.
+Durante décadas, fomos levados a acreditar que “é a linguagem que nos fala”. Hoje, diante das máquinas que escrevem conosco, essa fórmula revela seus limites.
 
-Chamamos isso de AutorIA: o espaço híbrido onde autor e inteligência artificial convergem.
+Pensar não é apenas articular palavras. Pensar é formular ideias.
 
-Este manifesto será desenvolvido.
+E ideias não são redutíveis a estruturas.
+
+Hermen@uta nasce dessa ruptura.
+
+Este é um espaço dedicado a compreender o sentido da tecnologia à luz da tradição humanística — filosofia, literatura, teologia — sem ceder ao deslumbramento nem ao catastrofismo.
+
+Chamamos de **AutorIA** o novo regime de autoria que emerge:
+
+não a substituição do autor pela máquina,  
+mas a convergência entre inteligência humana e inteligência artificial.
+
+Entre o silêncio da tradição e o ruído das máquinas, buscamos clareza.
+
+Entre o excesso de informação e a escassez de sentido, buscamos interpretação.
+
+Hermen@uta não é um lugar de notícias.
+
+É um lugar de leitura.
+
+Não é um lugar de respostas rápidas.
+
+É um lugar de pensamento.
+
+Sem ruído.  
+Apenas ideias.
