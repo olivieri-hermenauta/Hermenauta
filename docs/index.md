@@ -1,4 +1,4 @@
-![Hermen@uta](img/logo.png)
+<img src="img/logo.png" width="200">
 
 # Hermen@uta
 Navigating meaning in the digital age.
