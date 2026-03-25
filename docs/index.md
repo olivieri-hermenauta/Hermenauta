@@ -1,4 +1,6 @@
-<img src="img/logo.png" width="200">
+<p align="center">
+  <img src="img/logo.png" width="300">
+</p>
 
 # Hermen@uta
 Navigating meaning in the digital age.
