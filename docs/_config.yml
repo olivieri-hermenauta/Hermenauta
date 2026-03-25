@@ -6,3 +6,5 @@ author: "Antonio Carlos Olivieri"
 baseurl: "/Hermenauta"
 logo: "img/logo.png"
 header_pages: []
+sass:
+  style: compressed
