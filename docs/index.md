@@ -1,17 +1,14 @@
 ---
 layout: default
+title: Hermen@uta
 ---
 
-<p style="text-align:center;">
-  <img src="img/logo.png" alt="Hermen@uta">
-</p>
+![Hermen@uta](img/logo.png)
 
-<div class="hero-text">
 Um espaço de reflexão sobre tecnologia, inteligência artificial, linguagem, cultura e liberdade.
-</div>
 
-<h2>Leituras</h2>
+## Leituras
 
-<ul>
-  <li><a href="manifesto.md">Manifesto</a></li>
-</ul>
+- [Manifesto](manifesto.md)
+
+[English version](index-en.md)
