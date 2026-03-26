@@ -10,3 +10,4 @@ Hermen@uta is a space for reflection on technology, artificial intelligence, lan
 This page is being prepared in English.
 
 [Back to home](index-en.md)
+[English version](manifesto-en.md)
