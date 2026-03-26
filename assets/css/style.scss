@@ -57,14 +57,20 @@ img {
 }
 
 .hero-text {
-  max-width: 800px;
-  margin: 1.5rem auto 2.5rem auto;
-  font-size: 1.6rem;
-  line-height: 1.5;
-  color: #f2f2f2;
-  text-align: center;
+  display: block !important;
+  width: 100% !important;
+  max-width: 900px !important;
+  margin: 1.5rem auto 2.5rem auto !important;
+  text-align: center !important;
+  font-size: 1.6rem !important;
+  line-height: 1.5 !important;
+  color: #f2f2f2 !important;
 }
-
+.page-content,
+main,
+.wrapper {
+  text-align: center !important;
+}
 ul {
   list-style-position: inside;
   padding-left: 0;
