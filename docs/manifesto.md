@@ -28,7 +28,7 @@ Entre o excesso de informação e a escassez de sentido, buscamos interpretaçã
 Hermen@uta não é um lugar de notícias.
 
 É um lugar de leitura.
-
+[English version](manifesto-en.md)
 Não é um lugar de respostas rápidas.
 
 É um lugar de pensamento.
