@@ -5,37 +5,40 @@ body {
   background-color: #0b0b0b;
   color: #eaeaea;
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
-/* Esconde o link de acessibilidade no topo */
 .skip-link,
 .skip-to-content,
 a[href="#main-content"] {
-  position: absolute;
-  left: -9999px;
+  display: none !important;
 }
 
-/* Títulos */
-h1, h2, h3 {
-  color: #ffffff;
+.wrapper,
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
 }
 
-/* Vamos ocultar o título principal repetido */
-h1.page-title,
+h1,
 .page-header h1,
 header h1,
 main h1 {
-  display: none;
+  display: none !important;
 }
 
-/* Texto */
+h2, h3 {
+  color: #ffffff;
+}
+
 p, li {
   color: #d0d0d0;
   font-size: 1.15rem;
   line-height: 1.6;
 }
 
-/* Links */
 a {
   color: #7fffd4;
 }
@@ -44,67 +47,29 @@ a:hover {
   color: #a8ffe8;
 }
 
-/* Imagem/logo */
 img {
   display: block;
   margin: 2rem auto 1rem auto;
-  max-width: 460px;
-  width: 100%;
+  max-width: 520px;
+  width: 90%;
   height: auto;
   border-radius: 6px;
 }
 
-/* Subtítulo principal */
-.tagline,
-.subtitle,
 .hero-text {
-  max-width: 900px;
-  margin: 1.2rem auto 2rem auto;
-  font-size: 1.5rem;
+  max-width: 800px;
+  margin: 1.5rem auto 2.5rem auto;
+  font-size: 1.6rem;
   line-height: 1.5;
   color: #f2f2f2;
   text-align: center;
 }
 
-/* Lista de leituras */
 ul {
   list-style-position: inside;
   padding-left: 0;
 }
 
-/* Rodapé */
-footer {
-  color: #666;
-}
-/* Container central */
-.wrapper, main {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-}
-
-/* Logo mais equilibrado */
-img {
-  max-width: 520px;
-  width: 90%;
-  margin: 2rem auto 1rem auto;
-}
-
-/* Hero (bloco principal) */
-.hero-text {
-  font-size: 1.6rem;
-  line-height: 1.5;
-  margin: 1.5rem auto 2.5rem auto;
-  max-width: 800px;
-  color: #f0f0f0;
-}
-
-/* Leituras */
-h2 {
-  margin-top: 2rem;
-}
-
-/* Rodapé mais discreto */
 footer {
   margin-top: 3rem;
   font-size: 0.9rem;
