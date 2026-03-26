@@ -76,3 +76,37 @@ ul {
 footer {
   color: #666;
 }
+/* Container central */
+.wrapper, main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* Logo mais equilibrado */
+img {
+  max-width: 520px;
+  width: 90%;
+  margin: 2rem auto 1rem auto;
+}
+
+/* Hero (bloco principal) */
+.hero-text {
+  font-size: 1.6rem;
+  line-height: 1.5;
+  margin: 1.5rem auto 2.5rem auto;
+  max-width: 800px;
+  color: #f0f0f0;
+}
+
+/* Leituras */
+h2 {
+  margin-top: 2rem;
+}
+
+/* Rodapé mais discreto */
+footer {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #555;
+}
