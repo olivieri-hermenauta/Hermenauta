@@ -32,7 +32,11 @@ aside {
 
 /* Ajustes gerais */
 img {
-  border-radius: 6px;
+  display: block !important;
+  margin: 2rem auto 1rem auto !important;
+  max-width: 520px !important;
+  width: 90% !important;
+  height: auto !important;
 }
 
 /* Remover aparência “GitHub padrão” */
