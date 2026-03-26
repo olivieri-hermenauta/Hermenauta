@@ -87,3 +87,6 @@ footer,
 .page-footer {
   display: none !important;
 }
+body > :last-child {
+  display: none !important;
+}
