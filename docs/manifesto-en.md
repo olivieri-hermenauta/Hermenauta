@@ -1,4 +1,5 @@
 # Hermen@uta
+![Hermen@uta](/Hermenauta/img/cartum-manifesto-en.png)
 
 We live in a time when technology has ceased to be an instrument and has become an environment.  
 We no longer use tools: we inhabit systems.
