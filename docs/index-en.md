@@ -10,6 +10,6 @@ A space for reflection on technology, artificial intelligence, language, culture
 ## Readings
 
 - [Manifesto](manifesto-en.md)
-- [Ulysses (EN)](ulysses-en)
+- [Ulysses (EN)](ulysses-en.md)
 
 [Versão em português](index.md)
